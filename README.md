@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-Danger
+- 👋 Hi, I’m @PriyaDeepika
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
